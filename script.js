@@ -51,10 +51,6 @@ var curday = function(ap){
     console.log(curday('-'));
 
 
-
-
-    
-
     //  progrm 3
 
 //     Write a JavaScript function to get the number of days in a month.   
@@ -69,6 +65,7 @@ var curday = function(ap){
 // 29
 // 30
 // 31
+
 
 var getDaysInMonth = function(month,year) {
 
