@@ -134,10 +134,6 @@ var add_minutes =  function (dt, minutes) {
 console.log(add_minutes(new Date(2020,11,18), 30).toString());
 
 
-
-
-
-
 // program 7 
 
 // Write a JavaScript function to test whether a date is a weekend. Go to the editor
