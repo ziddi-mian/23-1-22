@@ -149,6 +149,7 @@ console.log(add_minutes(new Date(2020,11,18), 30).toString());
 // "weekend"
 // undefined
 
+
 var is_weekend =  function(date1){
     var dt = new Date(date1);
      
