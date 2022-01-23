@@ -25,10 +25,6 @@ var is_date = function(input) {
   console.log(is_date([1, 2, 4, 0]));
 
 
-
-
-  
-
   // program 2
 
 //   Write a JavaScript function to get the current date.   
@@ -40,6 +36,7 @@ var is_date = function(input) {
 // Output :
 // "11/13/2014"
 // "11-13-2014"
+
 
 var curday = function(ap){
     today = new Date();
