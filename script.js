@@ -13,9 +13,6 @@
 // false
 
 
-
-
-
 var is_date = function(input) {
     if ( Object.prototype.toString.call(input) === "[object Date]" ) 
       return true;
@@ -27,6 +24,7 @@ var is_date = function(input) {
   console.log(is_date(new Date(99,5,24,11,33,30,0)));
   console.log(is_date([1, 2, 4, 0]));
 
+  
 
   // program 2
 
