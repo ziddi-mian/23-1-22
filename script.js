@@ -38,6 +38,7 @@ var is_date = function(input) {
 // "11-13-2014"
 
 
+
 var curday = function(ap){
     today = new Date();
     var dd = today.getDate();
