@@ -130,6 +130,7 @@ console.log(compare_dates(new Date('12/18/2021 00:00'), new Date('12/18/2021 00:
 
 
 
+
 var add_minutes =  function (dt, minutes) {
     return new Date(dt.getTime() + minutes*60000);
 }
