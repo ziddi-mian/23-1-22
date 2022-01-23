@@ -122,7 +122,6 @@ console.log(compare_dates(new Date('12/18/2021 00:00'), new Date('12/18/2021 00:
 
 
 
-
 // programk 6
 
 // Write a JavaScript function to add specified minutes to a Date object.   
