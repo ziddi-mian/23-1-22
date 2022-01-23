@@ -77,11 +77,6 @@ var getDaysInMonth = function(month,year) {
    console.log(getDaysInMonth(12, 2012));
 
 
-
-
-
-   
-
    // program 4
 //   Write a JavaScript function to get the month name from a particular date.   
 
@@ -91,7 +86,8 @@ var getDaysInMonth = function(month,year) {
 // Output :
 // "October"
 // "November"
-  
+
+
 var month_name = function(dt){
     mlist = [ "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" ];
       return mlist[dt.getMonth()];
