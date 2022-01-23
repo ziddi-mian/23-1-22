@@ -278,6 +278,7 @@ function min_date(all_dates) {
 
 
    
+   
 // Write a JavaScript function to get the minimum date from an array of dates.   
 
 // Test Data :
