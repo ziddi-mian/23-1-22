@@ -40,6 +40,7 @@ var is_date = function(input) {
 
 
 
+
 var curday = function(ap){
     today = new Date();
     var dd = today.getDate();
