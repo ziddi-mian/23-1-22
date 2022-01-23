@@ -128,13 +128,12 @@ console.log(compare_dates(new Date('12/18/2021 00:00'), new Date('12/18/2021 00:
 // Output :
 // "Sun Nov 02 2014 00:30:00 GMT+0530 (India Standard Time)"
 
-
-
-
 var add_minutes =  function (dt, minutes) {
     return new Date(dt.getTime() + minutes*60000);
 }
 console.log(add_minutes(new Date(2020,11,18), 30).toString());
+
+
 
 
 
