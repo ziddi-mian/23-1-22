@@ -107,13 +107,7 @@ var month_name = function(dt){
 // Output :
 // "Date1 = Date2"
 // "Date1 > Date2"
-// "Date2 > Date1"
-
-
-
-
-
-
+// "Date2 > Date1
 var compare_dates = function(date1,date2){
     if (date1>date2) return ("Date1 > Date2");
   else if (date1<date2) return ("Date2 > Date1");
@@ -123,6 +117,8 @@ var compare_dates = function(date1,date2){
 console.log(compare_dates(new Date('12/18/2021 00:00'), new Date('12/18/2021 00:00')));
 console.log(compare_dates(new Date('12/18/2021 00:01'), new Date('12/18/2021 00:00')));
 console.log(compare_dates(new Date('12/18/2021 00:00'), new Date('12/18/2021 00:01')));
+
+
 
 
 // programk 6
