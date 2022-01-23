@@ -66,10 +66,6 @@ var curday = function(ap){
 // 30
 // 31
 
-
-
-
-
 var getDaysInMonth = function(month,year) {
 
     return new Date(year, month, 0).getDate();
@@ -80,6 +76,7 @@ var getDaysInMonth = function(month,year) {
    console.log(getDaysInMonth(9, 2012));
    console.log(getDaysInMonth(12, 2012));
 
+   
 
    // program 4
 //   Write a JavaScript function to get the month name from a particular date.   
