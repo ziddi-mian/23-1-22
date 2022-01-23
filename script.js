@@ -96,9 +96,6 @@ var month_name = function(dt){
     console.log(month_name(new Date("11/13/2014")));
 
 
-
-
-    
 // program 5
 
 //     Write a JavaScript function to compare dates (i.e. greater than, less than or equal to).   
@@ -111,6 +108,7 @@ var month_name = function(dt){
 // "Date1 = Date2"
 // "Date1 > Date2"
 // "Date2 > Date1"
+
 
 
 var compare_dates = function(date1,date2){
