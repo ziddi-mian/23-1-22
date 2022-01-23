@@ -37,11 +37,6 @@ var is_date = function(input) {
 // "11/13/2014"
 // "11-13-2014"
 
-
-
-
-
-
 var curday = function(ap){
     today = new Date();
     var dd = today.getDate();
@@ -55,6 +50,7 @@ var curday = function(ap){
     console.log(curday('/'));
     console.log(curday('-'));
 
+    
 
     //  progrm 3
 
