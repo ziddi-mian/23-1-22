@@ -168,6 +168,7 @@ console.log(is_weekend('Nov 17, 2014'));
 
 
 
+
 // program 8
 // Write a JavaScript function to get difference between two dates in days. Go to the editor
 
