@@ -50,6 +50,7 @@ var curday = function(ap){
     console.log(curday('/'));
     console.log(curday('-'));
 
+
     
 
     //  progrm 3
